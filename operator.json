@@ -3,6 +3,6 @@
   "description": "Compute the meadian per cell",
   "tags": ["basic statistics"],
   "authors": ["Rene Houtman"],
-  "urls": ["https://github.com/tercen/median_operator"],
+  "urls": ["https://github.com/rhoutman/median_operator"],
   "properties": []
 }
